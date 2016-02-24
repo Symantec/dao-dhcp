@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+from dao.dhcp import dhcp_hook
+dhcp_hook.main()

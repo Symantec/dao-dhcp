@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+ Script to start DAO DHCP agent.
+"""
+
+from dao.dhcp import run_manager
+
+
+run_manager._run()
